@@ -6,7 +6,7 @@ using namespace std;
 
 
 int main() {
-  cout<<(true and false)<<endl;
+  cout<<"Hello World!!!"<<endl;
 } ///:~
 
 //Pointers and arrays
