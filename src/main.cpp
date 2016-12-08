@@ -6,8 +6,8 @@ using namespace std;
 
 
 int main() {
-  cout<<"Hello World!!!"<<endl;
-  return 0;
+  cout<<"Hello World1"<<endl;
+  return 0; 
 } ///:~
 
 //Pointers and arrays
