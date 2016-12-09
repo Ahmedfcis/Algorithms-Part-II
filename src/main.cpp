@@ -5,8 +5,9 @@
 using namespace std;
 
 
-int main() {
-  cout<<"Hello World!!!!23213"<<endl;
+int main(int argc,char* argv[]) {
+  if(argc > 1)
+  	cout<<"Hello World :"<<argv[1]<<endl;
   return 0;
 } ///:~
 
